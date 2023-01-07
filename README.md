@@ -1,5 +1,5 @@
 
-## Hiii, me chamo Jesiel Gomes, criador de conteúdo de programação e tecnologia!
+## Fala, me chamo Jesiel Gomes, programador por diversão !
 
 <div align="center">
   <a href="https://github.com/jesiel364">
