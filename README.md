@@ -5,9 +5,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesieldotdev"/>
+  
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesieldotdev"/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesieldotdev&theme=dark)
 </div>
 
 
