@@ -1,15 +1,7 @@
-
-
 <div align="center">
-  <a  href="https://github.com/jesieldotdev">
 
-![Jesiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesieldotdev&show_icons=true&theme=dark)
+[![Jesiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesieldotdev&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/jesieldotdev)
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesieldotdev&layout=compact&theme=dark&hide_border=true)](https://github.com/jesieldotdev)
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesieldotdev&theme=dark)
 </div>
-
-
-
-  
